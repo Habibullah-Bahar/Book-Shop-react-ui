@@ -11,7 +11,9 @@ const Footer = () => {
   return (
     <div className="dark:bg-gray-950 dark:text-white bg-gray-100">
       <div className="grid grid-cols-1 sm:grid-cols-2 py-20 px-20 space-y-5 ">
-        <div>
+        <div 
+        data-aos="fade-up"
+        >
           <div>
             <div className="flex object-center gap-3 cursor-pointer ">
               <img src={FooterLogo} alt="" className="w-10" />
@@ -44,7 +46,9 @@ const Footer = () => {
         </div>
 
         {/* links  */}
-        <div className="flex flex-col sm:ml-25 lg:ml-[200px] gap-3">
+        <div
+        data-aos="zoom-in"
+        className="flex flex-col sm:ml-25 lg:ml-[200px] gap-3">
           <h1 className="text-xl font-bold mb-3">
             Important Links
           </h1>
