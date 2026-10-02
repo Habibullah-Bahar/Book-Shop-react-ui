@@ -41,7 +41,6 @@ const App = () => {
         <Popup
           orderPopup={orderPopup}
           setOrderPopup={setOrderPopup}
-          handleOrderPopUp={handleOrderPopUp}
         />
       </div>
     </>
