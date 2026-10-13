@@ -2,7 +2,7 @@
 
 A modern, responsive book shop web interface built with React. Users can browse books, view details, and add their favorite titles to the cart through a clean and simple UI.
 
-🔗 **Live Demo:** [https://book-shop-react-ui.vercel.app](https://book-shop-react-ui.vercel.app/)
+🔗 **Live Website:** [https://book-shop-react-ui.vercel.app](https://book-shop-react-ui.vercel.app/)
 
 ---
 
